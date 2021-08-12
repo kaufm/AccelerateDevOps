@@ -1,7 +1,7 @@
 ---
 layout: page
-title: "Get started"
-permalink: /get-started/
+title: "My page"
+permalink: /my-page/
 ---
 
 This is just a test
